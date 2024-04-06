@@ -22,9 +22,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/产品评测' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/学习记录' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/生活随笔' },
+  HEO_HERO_CATEGORY_1: { title: '产品评测', url: '/category/产品评测' },
+  HEO_HERO_CATEGORY_2: { title: '英语学习', url: '/category/英语学习' },
+  HEO_HERO_CATEGORY_3: { title: '生活随笔', url: '/category/生活随笔' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
